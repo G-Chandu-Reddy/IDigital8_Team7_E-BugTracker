@@ -1,0 +1,26 @@
+.footer{
+    background-color: rgba(5, 3, 7, 0.904);
+    color: rgb(255, 255, 255);
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* .image{
+    width: 50%;
+    height: 50%;
+    
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.text{
+    margin-top: 2rem;
+}
+
+.image-icon{
+    width: 70px;
+    height: 70px;
+} */
